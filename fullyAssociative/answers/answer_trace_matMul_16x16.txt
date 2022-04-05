@@ -1,0 +1,1 @@
+hits:11008 misses:1536 evictions:1520
